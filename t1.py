@@ -1,2 +1,4 @@
-a = (input("Enter: "))
-print(a)
+a = (input("Enter A: "))
+b= input("Enter B: ")
+c = a+b
+print(c)
