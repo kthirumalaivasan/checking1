@@ -1,2 +1,2 @@
-a = int(input())
+a = (input("Enter: "))
 print(a)
